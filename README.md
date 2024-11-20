@@ -1,4 +1,4 @@
-## ⚡WELCOME</>BIENVENIDO</>BEM-VINDO</>WILLKOMMEN</>⚡
+##   ⚡</>WELCOME!!, THANKS FOR VISIT MY PROFILE</>⚡
 
-https://github.com/user-attachments/assets/25fc1b2c-65d6-432c-9c7a-6b5bef5ab499
 
+![Banner Para LinkedIn Desarrollador De Software Moderno Negro (1)](https://github.com/user-attachments/assets/3f3a9ac6-4847-41d0-8db3-538cc7f4e02c)
