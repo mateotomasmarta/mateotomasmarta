@@ -1,3 +1,4 @@
 ## ⚡WELCOME</>BIENVENIDO</>BEM-VINDO</>WILLKOMMEN</>⚡
 
-![Banner Para LinkedIn Desarrollador De Software Moderno Negro](https://github.com/user-attachments/assets/ef2aba65-ca9e-471a-98b6-141643406924)
+https://github.com/user-attachments/assets/25fc1b2c-65d6-432c-9c7a-6b5bef5ab499
+
