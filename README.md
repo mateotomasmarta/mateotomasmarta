@@ -14,7 +14,8 @@
     </li>
     <li>
         I’m currently open for an intern or a new job opportunity: 
-        <a href="CV.pdf" onclick="abrirVentanaEmergente('https://github.com/tu-usuario/tu-repositorio/raw/main/carpeta/archivo.pdf'); return false;">
+        <a href="CV.pdf" target="_blank">
+        </a>
     </li>
 </ul>
 
