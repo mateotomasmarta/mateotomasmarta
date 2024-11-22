@@ -14,7 +14,8 @@
     </li>
     <li>
         I’m currently open for an intern or a new job opportunity: 
-        <a href="https://read.cv/0xabdulkhalid" target="_blank">my resume</a>
+        <a href="CV.pdf" target="_blank">CV</a>
+
     </li>
 </ul>
 
