@@ -14,8 +14,7 @@
     </li>
     <li>
         I’m currently open for an intern or a new job opportunity: 
-        <a href="CV.pdf" target="_blank">CV</a>
-
+        <a href="CV.pdf" onclick="abrirVentanaEmergente('https://github.com/tu-usuario/tu-repositorio/raw/main/carpeta/archivo.pdf'); return false;">
     </li>
 </ul>
 
@@ -23,3 +22,24 @@
 <br><br>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+    function abrirVentanaEmergente(url) {
+        window.open(url, '_blank', 'width=800,height=600,scrollbars=yes,resizable=yes');
+    }
+</script>
