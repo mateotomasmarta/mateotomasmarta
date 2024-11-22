@@ -13,9 +13,7 @@
         <a href="https://www.linkedin.com/in/mateo-tomas-marta-32b293329/" target="_blank">link</a>
     </li>
     <li>
-        I’m currently open for an intern or a new job opportunity: 
-        <a href="CV.pdf" target="_blank">
-        </a>
+        I’m currently open for an intern or a new job opportunity:<a href="CV.pdf" target="_blank">CV</a>
     </li>
 </ul>
 
