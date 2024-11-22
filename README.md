@@ -1,4 +1,8 @@
-<h1>🤜WELCOME🤛</h1>
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
+
+</div>
 <img src="https://github.com/user-attachments/assets/3f3a9ac6-4847-41d0-8db3-538cc7f4e02c" alt="Banner para LinkedIn - Desarrollador de Software" style="max-width: 100%; height: auto;">
 
  <h2></>🦁ABOUT ME🦁</></h2>
