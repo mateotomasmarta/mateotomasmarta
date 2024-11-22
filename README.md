@@ -8,7 +8,7 @@
 <ul>
     <li>A passionate developer and QA tester</li>
     <li>Student of "Universidad Argentina de la Empresa"</li>
-    <li>Currently learning about different languages</li>
+    <li>Currently working in new proyect</li>
     <li>
         LinkedIn: 
         <a href="https://www.linkedin.com/in/mateo-tomas-marta-32b293329/" target="_blank">link</a>
