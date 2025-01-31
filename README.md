@@ -12,7 +12,7 @@
 
 <p align="center">
   <ul align="left">
-    <li>🚀 A passionate developer and QA tester.</li>
+    <li>🚀 A passionate mobile developer and Backend</li>
     <li>🎓 Student of "Universidad Argentina de la Empresa".</li>
     <li>💻 Currently working on new projects.</li>
     <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/mateo-tomas-marta-32b293329/" target="_blank">Visit my profile</a></li>
