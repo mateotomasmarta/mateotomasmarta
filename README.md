@@ -1,63 +1,35 @@
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
+<img src="https://github.com/user-attachments/assets/3f3a9ac6-4847-41d0-8db3-538cc7f4e02c" alt="Mateo Tomás Marta - Desarrollador de Software" style="max-width: 100%; height: auto;">
 
-</div>
+# Mateo Tomás Marta
 
-<img src="https://github.com/user-attachments/assets/3f3a9ac6-4847-41d0-8db3-538cc7f4e02c" alt="Banner para LinkedIn - Desarrollador de Software" style="max-width: 100%; height: auto;">
+**Desarrollador Java Junior (Spring Boot) · Full Stack con React**
 
----
+Estudiante de la Tecnicatura en Desarrollo de Software y de la Licenciatura en Tecnologías de la Información en UADE. Busco mi primera oportunidad como desarrollador, en modalidad híbrida (Buenos Aires).
 
-<h2 align="center">🦁 ABOUT ME</h2>
-
-<p align="center">
-  <ul align="left">
-    <li>🚀 A passionate fullstack developer in react and spring</li>
-    <li>🎓 Student of "Universidad Argentina de la Empresa".</li>
-    <li>💻 Currently working on new projects.</li>
-    <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/mateo-tomas-marta-32b293329/" target="_blank">Visit my profile</a></li>
-    <li>📄 I’m currently open for an intern or a new job opportunity: <a href="CV.pdf" target="_blank">Download my CV</a></li>
-  </ul>
-</p>
+[Descargar CV](CV.pdf) · [LinkedIn](https://www.linkedin.com/in/mateo-tomas-marta-32b293329/) · [Email](mailto:martamateotomas@gmail.com) · [WhatsApp](https://wa.me/+541165233622)
 
 ---
 
-<h2 align="center">🛠️ TECHNOLOGIES</h2>
+## Proyectos
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-</p>
+- **E-commerce fullstack** (materia API, UADE): tienda completa desarrollada desde cero, con API REST en Spring Boot y frontend en React. Stack: Java, Spring Boot, JPA / Hibernate, React, Redux. [Repositorio](https://github.com/mateotomasmarta/REEMPLAZAR) · [Demo](https://REEMPLAZAR)
+- **dev-agents**: flujo multi-agente sobre Claude Code que convierte un documento de requerimientos en una feature implementada y testeada (TDD, contract-first con OpenAPI, dos controles humanos). Diseñado para ser adaptable a otras herramientas de IA. [Repositorio](https://github.com/mateotomasmarta/REEMPLAZAR)
 
 ---
 
-<h2 align="center">🛠️ SOFTWARES AND TOOLS</h2>
+## Tecnologías
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
----
+**IA y automatización:** prompt engineering, few-shot prompting, agentes con Claude Code.
 
-<details>
-  <summary><h2 align="center">☎️ CONTACT ME</h2></summary>
-  <div align="center">
-    <p align="center">
-      <a href="https://www.linkedin.com/in/mateo-tomas-marta-32b293329/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
-      </a>
-      <a href="mailto:martamateotomas@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30">
-      </a>
-      <a href="https://wa.me/+541165233622" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30">
-      </a>
-    </p>
-  </div>
-</details>
+**Conocimientos básicos:** Docker, n8n, fine-tuning de modelos.
