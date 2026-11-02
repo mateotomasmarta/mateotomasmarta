@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/3f3a9ac6-4847-41d0-8db3-538cc7f4e02c" alt="Mateo Tomás Marta - Desarrollador de Software" style="max-width: 100%; height: auto;">
+
 
 # Mateo Tomás Marta
 
